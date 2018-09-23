@@ -12,7 +12,6 @@ The following parameters may be set in the main powershell script (RemoveCompati
 7.  MISSING_PATH_ERROR_MSG:  This is the message that is displayed if the program path (2, and 3) cannot be found.
 
 #AUTHOR:  	Mark J. Lamias
-
 #Copyright:  	2018, Stochastic Group, Inc.
 #Assumptions:	This program assumes execution on a Windows 7, Windows 8.1, or Windows 2010 workstation.  The Application you want to remove compatibility settings on must already installed.  Executing the program prior to installing the application will throw an error.
 #Paramaters:	No input parameters are assummed to execut the program.  However, the program must reside inside the RemoveCompatibility directory shipped with this program.  You should however, change the program path constants WIN32PULSEPATH and WIN64PULSEPATH below along with the error messages.
