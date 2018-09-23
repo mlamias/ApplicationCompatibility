@@ -17,4 +17,3 @@ The following parameters may be set in the main powershell script (RemoveCompati
 #Paramaters:	No input parameters are assummed to execut the program.  However, the program must reside inside the RemoveCompatibility directory shipped with this program.  You should however, change the program path constants WIN32PULSEPATH and WIN64PULSEPATH below along with the error messages.
 #Execution:	    Excute by double clicking either the RunMe file bundled with this program or by running the PedazoDeBizcocho.bat file"
 #Acknowledgements:  Code within the ApplicationCompatibility folder was developed on 3/26/2015 and published here: https://gallery.technet.microsoft.com/scriptcenter/How-to-set-the-compatibilit-f055ef26
-
